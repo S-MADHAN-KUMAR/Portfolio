@@ -36,7 +36,7 @@ const Contact = () => {
           whileInView={'show'}
           viewport={{once:true, amount:0.2}}
           ref={form} onSubmit={sendEmail}
-            class=" bg-black/20 p-10 rounded-lg  border-2 border-solid [border-image:linear-gradient(to_right,_darkblue,blue,#86198f)_1] mx-auto w-full flex-1 "
+            class=" bg-black/20 p-5 sm:p-10 rounded-lg  border-2 border-solid [border-image:linear-gradient(to_right,_darkblue,blue,#86198f)_1] mx-auto w-full flex-1 "
           >
            
             <div class="mb-8">

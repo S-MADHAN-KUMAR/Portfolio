@@ -20,13 +20,13 @@ const Hero = () => {
              initial="hidden"
              whileInView={'show'}
              viewport={{ once: true, amount: 0.7 }}
-            className=" font-tertiary font-bold text-[35px] mb-4 ">
+            className=" font-tertiary font-bold sm:text-[35px] mb-4 text-[25px]">
               <span>IM </span>
               <TypeAnimation
                 sequence={["FRONTEND DEVELOPER", 2000, "FRESHER", 2000]}
                 speed={50}
                 repeat={Infinity}
-                className="text-purple-600 font-tertiary font-bold text-[35px]"
+                className="text-purple-600 font-tertiary font-bold text-[25px] sm:text-[35px]"
               />
             </motion.div>
             <motion.h1 
@@ -35,7 +35,7 @@ const Hero = () => {
             whileInView={'show'}
 
             viewport={{ once: true, amount: 0.7 }}
-            className=" text-4xl sm:text-5xl h-fit mb-10 text-gradient">
+            className=" text-3xl sm:text-5xl h-fit mb-10 text-gradient">
               MADHAN KUMAR{" "}
             </motion.h1>
             <motion.p
