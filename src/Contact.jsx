@@ -87,7 +87,7 @@ const Contact = () => {
           whileInView={'show'}
           viewport={{once:true, amount:0.2}}
           className="w-[300px] sm:w-[500px] ">
-            <img src="./public/assets/services.png" alt="" />
+            <img src="https://i.ibb.co/ftvK022/services.png"  alt="" />
           </motion.div>
         </div>
       </div>

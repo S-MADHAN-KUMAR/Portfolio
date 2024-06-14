@@ -96,7 +96,7 @@ const Hero = () => {
           className="right hidden md:flex">
             <div className=" w-[300px] h-fit ">
               <img
-                src="../public/assets/hero.png"
+                src="https://i.ibb.co/KGnG233/hero.png"
                 alt="image"
                 className="object-contain w-full h-full "
               />

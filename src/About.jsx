@@ -17,7 +17,7 @@ const About = () => {
           viewport={{once:true, amount:0.7}}
           className="left w-[220px] sm:w-[300px] flex-2">
             <img
-              src="../public/assets/hero.png"
+              src="https://i.ibb.co/wBSjZqy/logo.jpg"
               alt="image"
               className="object-contain w-full h-full "
             />
