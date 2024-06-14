@@ -163,6 +163,6 @@ export const projects = [
       ],
     category: "web app",
     github: "https://github.com/MADHAN-KUMAR-161/Portfolio",
-    webapp: "https://e-portfolio.netlify.app/",
+    webapp: "https://e-portfolioo.netlify.app/",
   },
 ];
