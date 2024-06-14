@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.btn {
+  background: linear-gradient(
+    92.23deg,
+    #d342cc 21.43%,
+    #b936ee 50.63%,
+    #1391cc 100%,
+    #4162d8 117.04%
+  );
+  box-shadow: 0px 4.42184px 107.23px rgba(255, 86, 246, 0.51);
+}
+
+.btn:hover {
+  background: linear-gradient(
+    92.23deg,
+    #0b31bb 21.43%,
+    #1d84b4 50.63%,
+    #b936ee 100%,
+    #b30caa 117.04%
+  );
+}
+
+.gradient,
+.active {
+  background: linear-gradient(
+    92.23deg,
+    #406aff 21.43%,
+    #3bace2 50.63%,
+    #b936ee 100%,
+    #ff56f6 117.04%
+  );
+}
+
+.active {
+  color: #fff;
+  border-radius: 100%;
+}
+
+@layer base {
+  .section {
+    @apply py-28 px-6 sm:px-16 overflow-x-hidden  ;
+  }
+  * {
+    @apply p-0 m-0 box-border no-scrollbar;
+  }
+  body {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    background: url("../public/assets/site-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.text-gradient{
+  @apply bg-gradient-to-r from-[#ff07f3] via-[#177bb9] to-[#0f4ea0] inline-block text-transparent bg-clip-text hover:from-[#177bb9] hover:to-[#b413ac] hover:via-[#0a74b6]  font-extrabold font-tertiary hover:scale-105;
+}
+.btn {
+  @apply font-medium text-white text-[20px] px-6 rounded-md font-tertiary hover:scale-105;
+}
+
+}
