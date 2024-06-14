@@ -17,7 +17,7 @@ const About = () => {
           viewport={{once:true, amount:0.7}}
           className="left w-[220px] sm:w-[300px] flex-2">
             <img
-              src="https://i.ibb.co/wBSjZqy/logo.jpg"
+              src="https://i.ibb.co/KGnG233/hero.png"
               alt="image"
               className="object-contain w-full h-full "
             />
@@ -35,7 +35,7 @@ const About = () => {
             variants={fadeIn('left',0.3)}
             initial="hidden"
             whileInView={'show'}
-            viewport={{once:true, amount:0.7}}
+            viewport={{once:true, amount:0.2}}
              className="text-xl sm:text-[24px] font-secondary leading-loose tracking-wide">
               <span className="text-[30px]">HI ,</span> am a Madhankumar, a fresh and passionate web developer with a <span className="text-fuchsia-600 text-[25px] font-semibold ">strong foundation in HTML, CSS, and JavaScript, and a keen interest in React.js.</span> I'm eager to contribute to innovative web projects and continually expand my skill set to create dynamic and user-friendly websites. After completing my 12th standard,<span className="text-sky-600 text-[25px] font-semibold"> I boldly decided to drop out of college and start learning front-end development skills independently.</span> Without relying on coaching centers, I took the initiative to master these skills independently. I'm also a very hard-working employee.
             </motion.p>

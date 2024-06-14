@@ -86,8 +86,8 @@ const Contact = () => {
           initial="hidden"
           whileInView={'show'}
           viewport={{once:true, amount:0.2}}
-          className="w-[300px] sm:w-[500px] ">
-            <img src="https://i.ibb.co/ftvK022/services.png"  alt="" />
+          className="w-[300px] sm:w-[550px] ">
+            <img src="https://i.postimg.cc/NfyTxsdL/services.png"  alt="imagr" className='object-contain w-full h-full ' />
           </motion.div>
         </div>
       </div>
