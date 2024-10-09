@@ -36,8 +36,12 @@ export const skills = [
     image: "https://img.icons8.com/color/48/sass-avatar.png",
   },
   {
-    name: "Python",
-    image: "https://img.icons8.com/color/48/python--v1.png",
+    name: "Node JS",
+    image: "https://img.icons8.com/color/48/nodejs.png",
+  },
+  {
+    name: "Mongo DB",
+    image: "https://img.icons8.com/color/48/mongodb.png",
   },
 ];
 
@@ -125,7 +129,7 @@ export const projects = [
   },
 
   {
-    id: 10,
+    id: 1,
     title: "E-PORFOLIO",
     date: "Apr 2024/1 - Apr 2024/7",
     description:
@@ -164,5 +168,39 @@ export const projects = [
     category: "web app",
     github: "https://github.com/MADHAN-KUMAR-161/Portfolio",
     webapp: "https://e-portfolioo.netlify.app/",
+  },
+   {
+    id: 2,
+    title: "User Management System",
+    date: "Apr 2024/1 - Apr 2024/7",
+    description:
+      "I recently completed my Thired project, 'User Management Sysytem,' a dynamic and visually captivating application website. This project boasts a vibrant and colorful user interface, enhanced by smooth animations, providing an engaging and interactive experience for visitors.",
+    image:
+      "https://ibb.co/PFWj9qt",
+      tags: [
+        {
+          name: "HTML",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png",
+        },
+        {
+          name: "CSS",
+          image: "https://img.icons8.com/color/48/css3.png",
+        },
+        {
+    name: "JavaScript",
+    image: "https://img.icons8.com/color/48/javascript--v1.png",
+  },
+        {
+    name: "Node JS",
+    image: "https://img.icons8.com/color/48/nodejs.png",
+  },
+  {
+    name: "Mongo DB",
+    image: "https://img.icons8.com/color/48/mongodb.png",
+  },
+      ],
+    category: "web app",
+    github: "https://github.com/MADHAN-KUMAR-161/UserManagementSystem",
   },
 ];
