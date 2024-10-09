@@ -176,7 +176,7 @@ export const projects = [
     description:
       "I recently completed my Thired project, 'User Management Sysytem,' a dynamic and visually captivating application website. This project boasts a vibrant and colorful user interface, enhanced by smooth animations, providing an engaging and interactive experience for visitors.",
     image:
-      "https://ibb.co/PFWj9qt",
+      "https://i.postimg.cc/FHHDf8wX/Screenshot-2024-10-09-141505.png",
       tags: [
         {
           name: "HTML",
