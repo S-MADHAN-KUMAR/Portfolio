@@ -201,6 +201,6 @@ export const projects = [
   },
       ],
     category: "web app",
-    github: "https://github.com/MADHAN-KUMAR-161/UserManagementSystem",
+    github: "https://github.com/S-MADHAN-KUMAR/UserManagement",
   },
 ];
