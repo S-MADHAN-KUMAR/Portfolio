@@ -176,7 +176,7 @@ export const projects = [
     description:
       "I recently completed my fourth project, testing small project TODO app is work very well ,i'll also add sweet alert",
     image:
-     "https://i.ibb.co/WVVm5Yd/Screenshot-2024-10-26-164135.png",
+     "https://i.ibb.co/bNszxwq/Screenshot-2024-10-26-164135.png",
       tags: [
         {
           name: "Tailwind css",
