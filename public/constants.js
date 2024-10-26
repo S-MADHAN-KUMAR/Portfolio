@@ -169,6 +169,38 @@ export const projects = [
     github: "https://github.com/MADHAN-KUMAR-161/Portfolio",
     webapp: "https://e-portfolioo.netlify.app/",
   },
+    {
+    id: 2,
+    title: "TODO APP",
+    date: "October 2024/1 ",
+    description:
+      "I recently completed my fourth project, testing small project TODO app is work very well ,i'll also add sweet alert",
+    image:
+      "https://ibb.co/WVVm5Yd",
+      tags: [
+        {
+          name: "Tailwind css",
+          image: "https://img.icons8.com/fluency/96/tailwind_css.png",
+        },
+        {
+          name: "React Js",
+          image:
+            "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png",
+        },
+        {
+          name: "HTML",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png",
+        },
+        {
+          name: "CSS",
+          image: "https://img.icons8.com/color/48/css3.png",
+        },
+      ],
+    category: "web app",
+    github: "https://github.com/MADHAN-KUMAR-161/TODO",
+    webapp: "https://bright-zabaione-7412e3.netlify.app/",
+  },
    {
     id: 2,
     title: "User Management System",
