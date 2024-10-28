@@ -198,7 +198,7 @@ export const projects = [
         },
       ],
     category: "web app",
-    github: "https://github.com/MADHAN-KUMAR-161/TODO",
+    github: "https://github.com/S-MADHAN-KUMAR/TODO",
     webapp: "https://bright-zabaione-7412e3.netlify.app/",
   },
    {
