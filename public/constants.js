@@ -235,4 +235,49 @@ export const projects = [
     category: "web app",
     github: "https://github.com/S-MADHAN-KUMAR/UserManagement",
   },
+   {
+    id: 4,
+    title: "Gym ratzz ecommerse",
+    date: "december 2024/15 - jan 2025/1",
+    description:
+      "I’ve just completed a huge milestone in my development journey – the GymRatzz E-Commerce Project built with MERN Stack! 🏋️‍♂️💻
+
+This project has been an incredible learning experience, combining the power of MongoDB, Express.js, React, and Node.js to build a fully-functional e-commerce website for gym equipment and fitness accessories. 💪",
+    image:
+      "https://res.cloudinary.com/dhcjyofjl/image/upload/v1738850767/yqm4nln2nptfavgmhgqh.png",
+      tags: [
+        {
+    name: "JavaScript",
+    image: "https://img.icons8.com/color/48/javascript--v1.png",
+  },
+         {
+          name: "Tailwind css",
+          image: "https://img.icons8.com/fluency/96/tailwind_css.png",
+        },
+        {
+          name: "React Js",
+          image:
+            "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png",
+        },
+        {
+          name: "framer motion",
+          image: "https://cdn.iconscout.com/icon/free/png-256/free-framer-2296068-1912027.png?f=webp",
+        },
+        {
+        name: "Redux",
+        image:
+          "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+      },
+        {
+    name: "Node JS",
+    image: "https://img.icons8.com/color/48/nodejs.png",
+  },
+  {
+    name: "Mongo DB",
+    image: "https://img.icons8.com/color/48/mongodb.png",
+  },
+      ],
+    category: "web app",
+    github: "https://github.com/S-MADHAN-KUMAR/UserManagement",
+  },
 ];
