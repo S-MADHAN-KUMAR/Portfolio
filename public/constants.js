@@ -256,10 +256,7 @@ export const projects = [
           image:
             "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png",
         },
-        {
-          name: "framer motion",
-          image: "https://cdn.iconscout.com/icon/free/png-256/free-framer-2296068-1912027.png?f=webp",
-        },
+       
         {
         name: "Redux",
         image:
