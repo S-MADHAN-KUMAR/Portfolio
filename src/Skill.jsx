@@ -26,7 +26,7 @@ const Skill = () => {
             whileInView={'show'}
             viewport={{once:true, amount:0.7}}
             className="w-full  flex justify-center items-start border-2 [border-image:linear-gradient(to_right,_darkblue,blue,#86198f)_1]">
-              <div className=" flex flex-wrap justify-center items-center gap-5 w-full p-6  ">
+              <div className=" flex flex-wrap justify-center items-center gap-5 w-full p-6 ">
                 {skills.map((item) => (
                   <SkillCard Img={item.image} Name={item.name} />
                 ))}
@@ -52,4 +52,4 @@ const Skill = () => {
   );
 };
 
-export default Skill;
+export default Skill
