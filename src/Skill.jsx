@@ -10,7 +10,7 @@ const Skill = () => {
     <>
       <div class="section bg-black/70  z-10 " id="skill">
         <div className="w-full z-1 ">
-          <motion.h1 
+          <motion.h1  
           variants={fadeIn('down',0.3)}
           initial="hidden"
           whileInView={'show'}
