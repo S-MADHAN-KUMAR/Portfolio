@@ -1,5 +1,5 @@
 import React from "react";
-import { Otherskills, skills } from "../public/constants";
+import { Otherskills, skills } from "../public/constants"
 import SkillCard from "./Components/SkillCard";
 import {motion} from 'framer-motion'; 
 import {fadeIn} from './variants';
