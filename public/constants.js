@@ -272,6 +272,7 @@ export const projects = [
   },
       ],
     category: "web app",
-    github: "https://github.com/S-MADHAN-KUMAR/UserManagement",
+    github: "https://github.com/S-MADHAN-KUMAR/gymratzz",
+     webapp:"https://gymratzz.shop/"
   },
 ];
