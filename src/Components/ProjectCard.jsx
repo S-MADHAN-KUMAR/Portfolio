@@ -26,10 +26,10 @@ const ProjectCard = ({Data }) => {
             ))
           }
         </div>
-        <p className="text-[17px]  text-justify text-white/50 mt-8 overflow-hidden ">
-          {Data.description.slice(0,200)}...
+        <p className="text-[15px]  text-justify text-white/50 mt-8 overflow-hidden ">
+          {Data.description.slice(0,150)}...
         </p>
-        <div className="flex text-white justify-between h-fit overflow-hidden my-3">
+        <div className="flex text-white justify-between h-fit overflow-hidden my-3 mt-auto">
           <a
             href={Data.github}
              target="_blank"
