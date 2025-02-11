@@ -239,7 +239,7 @@ export const projects = [
     id: 4,
     title: "Gym ratzz ecommerse",
     date: "december 2024/15 - jan 2025/1",
-    description: "I’ve just completed a huge milestone in my development journey – the GymRatzz E-Commerce Project built with MERN Stack! 🏋️‍♂️💻\n\nThis project has been an incredible learning experience, combining the power of MongoDB, Express.js, React, and Node.js to build a fully-functional e-commerce platform.",
+    description: "I’ve just completed a huge milestone in my development journey – the GymRatzz E-Commerce Project built with MERN Stack! 🏋️‍♂️💻\n\nThis project has been an incredible learning experience",
     image:
       "https://res.cloudinary.com/dhcjyofjl/image/upload/v1738850767/yqm4nln2nptfavgmhgqh.png",
       tags: [
