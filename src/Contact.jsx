@@ -7,7 +7,7 @@ import emailjs from '@emailjs/browser';
 const Contact = () => {
  
    
-  const form = useRef();
+  const form = useRef(); 
 
   const sendEmail = (e) => {
     e.preventDefault();
