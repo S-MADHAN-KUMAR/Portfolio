@@ -10,6 +10,11 @@ export const skills = [
       "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
   },
   {
+    name: "Type Script",
+    image:
+      "https://img.icons8.com/color/48/typescript.png",
+  },
+  {
     name: "HTML",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/170px-HTML5_logo_and_wordmark.svg.png",
