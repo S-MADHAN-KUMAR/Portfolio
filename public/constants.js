@@ -275,4 +275,44 @@ export const projects = [
     github: "https://github.com/S-MADHAN-KUMAR/gymratzz",
      webapp:"https://gymratzz.shop/"
   },
+   {
+    id: 5,
+    title: "Mini TypeScript CRUD APP",
+    date: "Mar 2025/12",
+    description: "i have just build practice application in typescript with react",
+    image:
+      "https://res.cloudinary.com/dhcjyofjl/image/upload/v1741763215/umtsbsmc1bpurrm9bk9b.png",
+      tags: [
+        {
+    name: "JavaScript",
+    image: "https://img.icons8.com/color/48/javascript--v1.png",
+  },
+         {
+          name: "Tailwind css",
+          image: "https://img.icons8.com/fluency/96/tailwind_css.png",
+        },
+        {
+          name: "React Js",
+          image:
+            "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png",
+        },
+       
+        {
+        name: "Typescript",
+        image:
+          "https://img.icons8.com/color/48/typescript.png",
+      },
+        {
+    name: "Node JS",
+    image: "https://img.icons8.com/color/48/nodejs.png",
+  },
+  {
+    name: "Mongo DB",
+    image: "https://img.icons8.com/color/48/mongodb.png",
+  },
+      ],
+    category: "web app",
+    github: "https://github.com/S-MADHAN-KUMAR/CRUD-APP-TYPESCRIPT",
+     webapp:"https://crud-app-typescript.onrender.com/"
+  },
 ];
